@@ -1,0 +1,8 @@
+.datacont{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(181, 220, 236);
+    margin-bottom: 5px;
+    padding:10px;
+  
+}
